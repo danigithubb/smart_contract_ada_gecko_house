@@ -1,0 +1,61 @@
+{
+    "EscapismPass1": {
+        "name": "Escapism Pass - Fire ",
+        "description": ["Unlock the door to a realm of endless", " possibilities with this Escapism Pass"],
+        "project": "Gecko House Escapism Pass",
+        "type": "Fire",
+        "src": "ipfs://QmdTFoFWj2ZzqDXvwag9MywFv1uZRTwCtctMc37cZUhHdG",
+        "mediaType": "image/gif",
+        "files": [
+            {
+                "src": "ipfs://QmbvYKnYpXQPb6iT6sWk37iNZJywX2UYV3EcQDj8QBsA5t",
+                "mediaType": "video/mp4"
+            }
+        ]
+    
+    },
+    "EscapismPass2": {
+        "name": "Escapism Pass - Earth ",
+        "description": ["Unlock the door to a realm of endless", " possibilities with this Escapism Pass"],
+        "project": "Gecko House Escapism Pass",
+        "type": "Fire",
+        "src": "ipfs://QmXcH8dBBv1VTfEhLfVSrzgxEPcHjRZkfdacouF41SqK7a",
+        "mediaType": "image/gif",
+        "files": [
+            {
+                "src": "ipfs://QmczZ9isveXYL63nSRwqFSGbzzwTaTkK2jAz6wDWiZik4U",
+                "mediaType": "video/mp4"
+            }
+        ]
+    },
+    
+    "EscapismPass3": {
+        "name": "Escapism Pass - Water ",
+        "description": ["Unlock the door to a realm of endless", " possibilities with this Escapism Pass"],
+        "project": "Gecko House Escapism Pass",
+        "type": "Fire",
+        "src": "ipfs://QmXoAtuxu3iGD7Vizvh27RM4oj5UsXKbbuvU5jVkYrQAp3",
+        "mediaType": "image/gif",
+        "files": [
+            {
+                "src": "ipfs://QmQCWYXW4cEtmtaRhdeuxJh2bQDk3ZYrkuAqjtCYLxkvvV",
+                "mediaType": "video/mp4"
+            }
+        ]
+    },
+
+    "EscapismPass4": {
+        "name": "Escapism Pass - Wind ",
+        "description": ["Unlock the door to a realm of endless", " possibilities with this Escapism Pass"],
+        "project": "Gecko House Escapism Pass",
+        "type": "Fire",
+        "src": "ipfs://QmaBBpkr1cNBxF4rY1Dhexd13963KwmDNEYkS1eorCCd1e",
+        "mediaType": "image/gif",
+        "files": [
+            {
+                "src": "ipfs://QmcVrxxVfKTFekEL6DHv83V5cc7nNZ9wEMrMNBp31SQKZ2",
+                "mediaType": "video/mp4"
+            }
+        ]
+    }
+}
